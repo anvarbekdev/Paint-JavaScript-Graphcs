@@ -1,6 +1,4 @@
-## A great fullstack ecommerce app
-
-<h3><a href="https://github.com/tonicdev07/ecommerce-backend" style="font-size: 32px">Go to the backend</a></h3>
+## A great Paint app
 
 <div>    <div
       style="display: flex; justify-items: center; gap: 4px; margin-bottom: 4px"
@@ -92,57 +90,4 @@
         />
         https://facebook.com/tonicdev07</a
       >
-    </div></div><br> <br>
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## I what was base technologies are use!
-
-- JavaScript
-- React/Vite Js: app router <img
-          src="https://t3.ftcdn.net/jpg/02/35/26/30/240_F_235263034_miJw2igmixo7ymCqhHZ7c8wp9kaujzfM.jpg"
-          alt="YouTube"
-          width="22"
-          height="22"
-        />
-- Express Js
-- Tailwindcss
-- MySql
-- Jsonwebtoken
-- Headlessui
-- And too more..
-
-<h1><a href="https://shop-2fgr.onrender.com" style="font-size: 32px">Demo</a></h1>
-
-## What features does it have
-
--- USER
-
-- Very good looking ui/ux design
-- Advertising banners in the form of a slide
-- Product pagination
-- Add, remove, update, and check out products in your cart
-- Ordering products by size
-- There is an excellent multi-functional filtering system
-- This works much better from an SEO point of view
-
--- ADMIN
-
-- Create any product categories, sections, parts
-- Attach the product to each section
-- Write a perfect beautiful description about the product
-- When uploading images, automatically load the image size to the minimum view.
-- Get, search, place, update and delete products in a convenient table move
-- And more...
-
-<div>
-<img src='./src/assets/demo/Screenshot_4.jpg'>
-<img src='./src/assets/demo/Screenshot_5.jpg'>
-<img src='./src/assets/demo/Screenshot_6.jpg'>
-<img src='./src/assets/demo/Screenshot_7.jpg'>
-<img src='./src/assets/demo/Screenshot_8.jpg'>
-<img src='./src/assets/demo/Screenshot_9.jpg'>
-<img src='./src/assets/demo/Screenshot_12.jpg'>
-<img src='./src/assets/demo/Screenshot_10.jpg'>
-<img src='./src/assets/demo/Screenshot_11.jpg'>
-</div>
+    </div></div>
